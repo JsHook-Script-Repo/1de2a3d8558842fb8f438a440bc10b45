@@ -1,4 +1,4 @@
-# Unity il2cpp游戏的Mod脚本例子(明日方舟)
+# Unity il2cpp游戏的Mod脚本例子
 一个 Unity il2cpp游戏的Mod脚本例子 脚本未加密 给各位想制作Unity游戏Mod脚本的作参考  
   
 此脚本以明日方舟为例 后续不更新维护 支持官服 B服 其他渠道服兼容性未知 免ROOT模式兼容性未知   
