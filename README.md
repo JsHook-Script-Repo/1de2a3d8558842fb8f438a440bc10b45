@@ -10,6 +10,8 @@
 
 当你弄懂这种基地偏移的修改方法 可以尝试使用 [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
 
+[frida文档](https://frida.re/docs/javascript-api/) --- [jshook说明](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook#%E9%80%9A%E7%94%A8)
+
 ## 功能
 * 无敌
 * 99Cost
