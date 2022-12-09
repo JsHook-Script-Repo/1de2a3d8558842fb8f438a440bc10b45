@@ -8,6 +8,8 @@
 2.寻找要Hook的方法 记下地址偏移  
 3.对方法进行Hook 修参数或返回值以达到无敌,伤害翻倍和你需要的效果  
 
+当你弄懂这种基地偏移的修改方法 可以尝试使用 [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
+
 ## 功能
 * 无敌
 * 99Cost
